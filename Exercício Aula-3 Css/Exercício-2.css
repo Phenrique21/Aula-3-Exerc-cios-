@@ -1,0 +1,17 @@
+.caixa{
+    background-color: aqua;
+    width: 9.5rem;
+    height: 5rem;
+    margin: 9.5rem;
+}
+.p{
+    background-color: aquamarine;
+    width: 9.5rem;
+    height: 5rem;
+}
+.mesa{
+  
+    height: 30rem;
+    width: 30rem;
+    background-color: black;
+}

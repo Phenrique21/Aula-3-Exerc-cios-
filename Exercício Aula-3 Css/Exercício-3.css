@@ -1,0 +1,13 @@
+.mesa{
+    width: 30%;
+    height: 30%;
+    padding: 5%;
+    background-color: rgb(215, 9, 9);
+    margin: 2%;
+}
+.caixa{
+    width: 45px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    margin: 3%;
+}
